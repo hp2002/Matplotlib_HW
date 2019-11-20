@@ -7,5 +7,5 @@ Bubble chart
 ![](images/PyberRideShareData.png)
 
 Pie charts
-![](images/TotalFaresByCityType.png)
-![](images/TotalDriverByCityType.png)
+<img src="images/TotalFaresByCityType.png width="50">
+<img src="images/TotalDriverByCityType.png width="100">                                                  
